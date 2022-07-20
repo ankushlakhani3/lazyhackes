@@ -1,0 +1,11 @@
+msf
+password
+admin
+12345
+sshlogin
+helo
+12345
+msfadmin
+admin12345
+admin1234
+

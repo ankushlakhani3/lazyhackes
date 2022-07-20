@@ -1,0 +1,8 @@
+admin:admin
+anonymouse:anonymouse
+msfconsole:admin
+admin:1234
+hello:hellolinux
+msfadmin:1234
+msfadmin:msfadmin
+msfadmin:admin
